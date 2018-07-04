@@ -2,7 +2,7 @@ import React from "react";
 
 const MovieList = () => (
   <div>
-    <div>Movie List</div>
+    <div>Movie Lists</div>
   </div>
 );
 
